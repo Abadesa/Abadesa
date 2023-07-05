@@ -1,16 +1,29 @@
-### Hi there 👋
+# ¡Hola, soy Alicia! 👋
 
-<!--
-**Abadesa/Abadesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy una desarrolladora frontend apasionada por crear experiencias digitales atractivas y funcionales. Me encanta trabajar con tecnologías web modernas y crear interfaces de usuario elegantes.
 
-Here are some ideas to get you started:
+## 🚀 Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Vue.js
+- Bootstrap
+- Sass
+- Git
+
+## 🌱 Aprendiendo Actualmente
+
+Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades. Actualmente, estoy enfocada en:
+
+- Aprender React y Angular.
+- Mejorando mis habilidades de diseño UX/UI
+
+## 📫 Contáctame
+
+¡Me encantaría conectar contigo! Puedes encontrarme en las siguientes redes sociales:
+
+- LinkedIn: [enlace-a-linkedin](https://www.linkedin.com/in/abadesa/)
+
+¡Gracias por visitar mi perfil de GitHub! 🚀
