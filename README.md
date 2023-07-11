@@ -17,7 +17,7 @@
 
 Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades. Actualmente, estoy enfocada en:
 
-- Aprender React y Angular.
+- Aprender más sobre Frameworks (React y Angular)
 - Mejorando mis habilidades de diseño UX/UI
 
 ## 📫 Contáctame
