@@ -23,6 +23,6 @@ Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades. A
 
 ¡Me encantaría conectar contigo! Puedes encontrarme en las siguientes redes sociales:
 
-- LinkedIn: [enlace-a-linkedin](https://www.linkedin.com/in/abadesa/)
+- LinkedIn: [linkedin.com/in/abadesa](https://www.linkedin.com/in/abadesa/)
 
 ¡Gracias por visitar mi perfil de GitHub! 🚀
