@@ -10,7 +10,6 @@
 - React.js
 - Vue.js
 - Bootstrap
-- Sass
 - Git
 
 ## 🌱 Aprendiendo Actualmente
