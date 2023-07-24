@@ -9,25 +9,20 @@
 <p align="center"> 
 
 
-  <img src="./assets/img/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  <img src="" width="36" height="36" alt="JavaScript" />
 
+  <img src="" width="36" height="36" alt="Git" />
 
-  <img src="./assets/img/git-colored.svg" width="36" height="36" alt="Git" />
+  <img src="" width="36" height="36" alt="HTML5" />
 
+  <img src="" width="36" height="36" alt="CSS3" />
 
-  <img src="./assets/img/html5-colored.svg" width="36" height="36" alt="HTML5" />
+  <img src="" width="36" height="36" alt="NodeJS" />
 
+  <img src="" width="36" height="36" alt="Figma" />
 
-  <img src="./assets/img/css3-colored.svg" width="36" height="36" alt="CSS3" />
-
-  <img src="./assets/img/nodejs-color.svg" width="36" height="36" alt="NodeJS" />
-
-  <img src="./assets/img/figma-colored.svg" width="36" height="36" alt="Figma" />
-
-  <img src="./assets/img/jest-plain.svg" height="36" alt="jest logo"/>
+  <img src="" height="36" alt="jest logo"/>
  
-
-
 
 </div>
 
@@ -38,13 +33,13 @@
 
 Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades. Actualmente, estoy enfocada en:
 
-- Aprender más sobre Frameworks (React y Angular)
-- Mejorando mis habilidades de diseño UX/UI
+Aprender más sobre Frameworks (React y Angular)
+Mejorando mis habilidades de diseño UX/UI
 
 ## 📫 Contáctame
 
 ¡Me encantaría conectar contigo! Puedes encontrarme en las siguientes redes sociales:
 
-- LinkedIn: [linkedin.com/in/abadesa](https://www.linkedin.com/in/abadesa/)
+LinkedIn: [linkedin.com/in/abadesa](https://www.linkedin.com/in/abadesa/)
 
 ¡Gracias por visitar mi perfil de GitHub! 🚀
