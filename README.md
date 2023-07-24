@@ -9,19 +9,21 @@
 <p align="center"> 
 
 
-  <img src="" width="36" height="36" alt="JavaScript" />
+  <h4> JavaScript </h4>
 
-  <img src="" width="36" height="36" alt="Git" />
+  <h4> Git y Github </h4>
 
-  <img src="" width="36" height="36" alt="HTML5" />
+  <h4> HTML5 </h4>
 
-  <img src="" width="36" height="36" alt="CSS3" />
+  <h4> CSS </h4>
 
-  <img src="" width="36" height="36" alt="NodeJS" />
+  <h4> Node.js </h4>
 
-  <img src="" width="36" height="36" alt="Figma" />
+  <h4> Vue.js </h4>
 
-  <img src="" height="36" alt="jest logo"/>
+  <h4> Jest </h4>
+
+  <h4> Figma </h4>
  
 
 </div>
