@@ -9,21 +9,7 @@
 <p align="center"> 
 
 
-  <h4> JavaScript </h4>
-
-  <h4> Git y Github </h4>
-
-  <h4> HTML5 </h4>
-
-  <h4> CSS </h4>
-
-  <h4> Node.js </h4>
-
-  <h4> Vue.js </h4>
-
-  <h4> Jest </h4>
-
-  <h4> Figma </h4>
+  <h4> JavaScript, Git y Github, HTML5, CSS, Node.js, Vue.js, Jest, Figma </h4>
  
 
 </div>
